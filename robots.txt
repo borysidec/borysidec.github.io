@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://borysidec.github.io/sitemap.html.gz
+Sitemap: https://borysidec.github.io/app/sitemap.html.gz
+Sitemap: https://borysidec.github.io/assets/sitemap.html.gz
+Sitemap: https://borysidec.github.io/css/sitemap.html.gz
+Sitemap: https://borysidec.github.io/includes/sitemap.html.gz
+Sitemap: https://borysidec.github.io/item/sitemap.html.gz
+Sitemap: https://borysidec.github.io/src/sitemap.html.gz
